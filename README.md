@@ -1,17 +1,14 @@
-# HESMS data Repository
-This is the data repository with the input parameters and results for the case studies 1, 2, 3, 4 and 5 of the paper [1].
+# Repositório de dados do sistema GAER
+Este é o repositório de dados, parâmetros de entrada e resultados para os estudos de caso 1, 2, 3, 4, 5, 6 e 7, desenvolvidos na pesquisa de doutorado de William Ismael Schmitz.
 
-
-### Content for each case study presented in the paper [1]
-#### Input parameters:
-- state of charge (SOC) data;
-- wind speed data;
-- power outage data;
-#### Results:
-- output data from the proposed system HESMS;
-- graphs.
-
-[1] W. I. Schmitz, M. Schmitz, L. N. Canha, and V. J. Garcia, "Proactive home energy storage management system to severe weather scenarios". Elsevier. Applied Energy, vol. 279, no. 115797, pp. 1-14, Ago. 2020. https://doi.org/10.1016/j.apenergy.2020.115797.
+### Conteúdo para cada estudo de caso apresentado.
+#### Parâmetros de entrada:
+- dados do estado de carga (SOC);
+- dados de velocidade do vento;
+- dados de falta de energia;
+#### Resultados:
+- dados de saída do sistema GAER proposto;
+- gráficos;
 
 #### Terms of Use: 
 This website and its contents herein, including all data, charts, and analysis (“Website”), copyright 2020 Federal University of Santa Maria, all rights reserved, is provided solely for non-profit public health, educational, and academic research purposes.
