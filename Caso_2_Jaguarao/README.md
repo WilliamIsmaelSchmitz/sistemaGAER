@@ -1,10 +1,12 @@
-#### Input parameters:
-- date and time;
-- wind speed [m/s];
-- power outage data, where 0 indicates that there is no power outage and 1 indicates the occurrence of a power outage.
-#### Results:
-- output data from the proposed system HESMS (date and time, wind speed [m/s], ψ, SOC, SOC_ref, tᴼᵁᵀᴬᴳᴱ [min], σ, c1, c2);
-- graphs and analysis.
+#### Parâmetros de entrada:
+- data e hora;
+- velocidade do vento [m/s];
+- dados de falta de energia, onde 0 indica que não há queda de energia e 1 indica a ocorrência de uma falta de energia;
+- dados de duração de interrupção de energia (DIC), em décimos de hora.
 
-Case study 2 is carried out in the city of Porto Alegre, Rio Grande do Sul, Brazil.
+#### Resultados:
+- dados de saída do sistema GAER (data e hora, velocidade do vento [m/s], ψ, SOC, SOC_ref, tᴼᵁᵀᴬᴳᴱ[min], σ, c1, c2);
+- gráficos.
+
+O estudo de caso 2 é realizado na cidade de Jaguarão, Rio Grande do Sul, Brasil.
  
