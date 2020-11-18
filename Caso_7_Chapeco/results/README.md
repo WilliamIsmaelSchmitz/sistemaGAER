@@ -1,5 +1,5 @@
-#### Results for the case study 5:
-- output data from the proposed system HESMS (date and time, wind speed [m/s], ψ, SOC, SOC_ref, tᴼᵁᵀᴬᴳᴱ [min], σ, c1, c2);
-- graphs.
+#### Resultados para o estudo de caso 7:
+- dados de saída do sistema GAER (data e hora, velocidade do vento [m/s], ψ, SOC, SOC_ref, tᴼᵁᵀᴬᴳᴱ[min], σ, c1, c2);
+- gráficos.
 
-Case study 5 is carried out in the city of Bagé, Rio Grande do Sul, Brazil.
+O estudo de caso 7 é realizado na cidade de Chapecó, Santa Catarina, Brasil.
