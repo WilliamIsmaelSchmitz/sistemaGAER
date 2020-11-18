@@ -1,5 +1,6 @@
-#### Results for the case study 1:
-- output data from the proposed system HESMS (date and time, wind speed [m/s], ψ, SOC, SOC_ref, tᴼᵁᵀᴬᴳᴱ [min], σ, c1, c2);
-- graphs.
+#### Resultados para o estudo de caso 1:
+- dados de saída do sistema GAER (data e hora, velocidade do vento [m/s], ψ, SOC, SOC_ref, tᴼᵁᵀᴬᴳᴱ[min], σ, c1, c2);
+- gráficos.
 
-Case study 1 is carried out in the city of Horizontina, Rio Grande do Sul, Brazil.
+O estudo de caso 1 é realizado na cidade de Porto Alegre, Rio Grande do Sul, Brasil.
+
