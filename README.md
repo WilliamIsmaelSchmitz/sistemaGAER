@@ -6,6 +6,7 @@ Este é o repositório de dados, parâmetros de entrada e resultados para os est
 - dados do estado de carga (SOC);
 - dados de velocidade do vento;
 - dados de falta de energia;
+- dados de duração de interrupção de energia (DIC);
 #### Resultados:
 - dados de saída do sistema GAER proposto;
 - gráficos;
