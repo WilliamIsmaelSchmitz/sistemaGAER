@@ -1,6 +1,7 @@
-#### Input parameters for case study 3:
-- date and time;
-- wind speed measurements [m/s];
-- power outage data, where 0 indicates that there is no power outage and 1 indicates the occurrence of a power outage.
+#### Parâmetros de entrada para o estudo de caso 3:
+- data e hora;
+- velocidade do vento [m/s];
+- dados de falta de energia, onde 0 indica que não há queda de energia e 1 indica a ocorrência de uma falta de energia;
+- dados de duração de interrupção de energia (DIC), em décimos de hora.
 
-Case study 3 is carried out in the city of Jaguarão, Rio Grande do Sul, Brazil.
+O estudo de caso 3 é realizado na cidade de Rio Grande, Rio Grande do Sul, Brasil.
